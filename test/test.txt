@@ -1,1 +1,1 @@
-This is demo class for git and github. i want to demonstrate the capabilities of git.
+This is demo class for git and github. i want to demonstrate the capabilities of git. This is to test commit message.
