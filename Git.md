@@ -29,7 +29,7 @@ You can initialize your current working directory as a Git repository with init:
 
 To copy an existing Git repository hosted remotely, you’ll use git clone with the repo’s URL or server location (in the latter case you will use ssh):
 
-    git clone https://www.github.com/username/repo-name
+    git clone [https://www.github.com/username/repo-name](https://github.com/avinash0106/class.git)
 
 Show your current Git directory’s remote repository:
 
